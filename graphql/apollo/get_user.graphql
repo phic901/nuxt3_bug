@@ -1,0 +1,27 @@
+
+query me{
+  me {
+    username
+    email
+    population {
+      name
+      surname
+      fullName
+    }
+    coverImage {
+      path
+    }
+    profileImage {
+      path
+    }
+    followersCount
+    booksCount
+    followingsCount
+    shelfsCount
+    isNotify
+    notifyCount
+    isApproved
+  }
+}
+
+

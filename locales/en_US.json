@@ -1,0 +1,11 @@
+{
+  "filters": {
+    "orderFields": {
+      "createdAt": "Created Date",
+      "updatedAt": "Updated Date",
+      "name": "Name",
+      "id": "Id",
+      "title": "Title"
+    }
+  }
+}
