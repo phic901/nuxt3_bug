@@ -102,7 +102,6 @@ export default defineNuxtConfig({
     '~/plugins/timeUtils.ts',
     '~/plugins/v-emoji-picker.ts',
     '~/plugins/v-tooltip.ts',
-    '~/plugins/axios.ts',
     '~/plugins/vue-tailwind-color-picker.ts',
     { src: '~/plugins/vuesplide.ts', ssr: false },
     { src: '~/plugins/vueform.ts', ssr: false },
