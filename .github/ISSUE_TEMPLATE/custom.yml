@@ -13,10 +13,10 @@ body:
   - type: checkboxes
     id: terms
     attributes:
-      label: Code of Conduct
-      description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com)
+      label: Node Version
+      description: * If you already have Node.js installed, check with node --version that you are using v14 or v16. [Docs](https://v3.nuxtjs.org/getting-started/introduction#prerequisites)
       options:
-        - label: I agree to follow this project's Code of Conduct
+        - label: Node 14 or 16 used.
           required: true
   - type: textarea
     id: bug-env
