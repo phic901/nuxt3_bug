@@ -16,7 +16,7 @@ body:
       label: Node Version
       description: If you already have Node.js installed, check with node --version that you are using v14 or v16. [Docs](https://v3.nuxtjs.org/getting-started/introduction#prerequisites)
       options:
-        - label: Node 14 or 16 used.
+        - label: I am using Node.js v14 or v16
           required: true
   - type: textarea
     id: bug-env
