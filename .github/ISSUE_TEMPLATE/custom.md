@@ -1,12 +1,3 @@
----
-name: Custom issue template
-about: Describe this issue template's purpose here.
-title: ''
-labels: ''
-assignees: ''
-
----
-
 name: "\U0001F41E Bug report (Nuxt Bridge)"
 description: Create a report to help us improve Nuxt Bridge
 labels: [bug, bridge]
@@ -55,3 +46,4 @@ body:
       description: |
         Optional if provided reproduction. Please try not to insert an image but copy paste the log text.
       render: shell
+  
